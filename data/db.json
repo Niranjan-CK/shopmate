@@ -1,0 +1,28 @@
+{
+    "products":[
+        {
+            "id" : 1000,
+            "name" : "Course 1",
+            "price" : 99,
+            "in_stock" : true
+        },
+        {
+            "id" : 1001,
+            "name" : "Course 2",
+            "price" : 49,
+            "in_stock" : false
+        },
+        {
+            "id" : 1002,
+            "name" : "Course 3",
+            "price" : 39,
+            "in_stock" : true
+        },
+        {
+            "id" : 1003,
+            "name" : "Course 4",
+            "price" : 34,
+            "in_stock" : false
+        }
+    ]
+}
